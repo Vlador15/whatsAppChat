@@ -26,5 +26,5 @@ React.js / Mobx / Mui
 - Обработка входящих уведомлений с интервалом 5с (с помощью метода: ReceiveNotification, DeleteNotification)
 - Отправка сообщений пользователю (с помощью метода: SendMessage)
 
-<img src="https://imgur.com/65SulLL" max-width="600" />
-<img src="https://imgur.com/jA1wOwt" max-width="600" />
+<img src="https://imgur.com/65SulLL.png" max-width="600" />
+<img src="https://imgur.com/jA1wOwt.png" max-width="600" />
